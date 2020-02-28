@@ -1,0 +1,46 @@
+C:\Users\Ekaterina.Kuzina\Documents\University\Базы данных\Курсовой проект\DB_KW\DB_KW\bin\Debug\DB_KW.exe.config
+C:\Users\Ekaterina.Kuzina\Documents\University\Базы данных\Курсовой проект\DB_KW\DB_KW\bin\Debug\DB_KW.exe
+C:\Users\Ekaterina.Kuzina\Documents\University\Базы данных\Курсовой проект\DB_KW\DB_KW\bin\Debug\DB_KW.pdb
+C:\Users\Ekaterina.Kuzina\Documents\University\Базы данных\Курсовой проект\DB_KW\DB_KW\obj\Debug\DB_KW.csprojResolveAssemblyReference.cache
+C:\Users\Ekaterina.Kuzina\Documents\University\Базы данных\Курсовой проект\DB_KW\DB_KW\obj\Debug\DB_KW.AboutBox1.resources
+C:\Users\Ekaterina.Kuzina\Documents\University\Базы данных\Курсовой проект\DB_KW\DB_KW\obj\Debug\DB_KW.Form1.resources
+C:\Users\Ekaterina.Kuzina\Documents\University\Базы данных\Курсовой проект\DB_KW\DB_KW\obj\Debug\DB_KW.Properties.Resources.resources
+C:\Users\Ekaterina.Kuzina\Documents\University\Базы данных\Курсовой проект\DB_KW\DB_KW\obj\Debug\DB_KW.csproj.GenerateResource.Cache
+C:\Users\Ekaterina.Kuzina\Documents\University\Базы данных\Курсовой проект\DB_KW\DB_KW\obj\Debug\DB_KW.exe
+C:\Users\Ekaterina.Kuzina\Documents\University\Базы данных\Курсовой проект\DB_KW\DB_KW\obj\Debug\DB_KW.pdb
+C:\Users\Ekaterina.Kuzina\Documents\University\Базы данных\Курсовой проект\DB_KW\DB_KW\obj\Debug\DB_KW.FormAddUser.resources
+C:\Users\Ekaterina.Kuzina\Documents\University\Базы данных\Курсовой проект\DB_KW\DB_KW\obj\Debug\DB_KW.FormAddStudInfo.resources
+C:\Users\Ekaterina.Kuzina\Documents\University\Базы данных\Курсовой проект\DB_KW\DB_KW\obj\Debug\DB_KW.FormEnterOSEP.resources
+C:\Users\Ekaterina.Kuzina\Documents\University\Базы данных\Курсовой проект\DB_KW\DB_KW\obj\Debug\DB_KW.FormResultsTable.resources
+C:\Users\Ekaterina.Kuzina\Documents\University\Базы данных\Курсовой проект\DB_KW\DB_KW\obj\Debug\DB_KW.FormAddContactType.resources
+C:\Users\User\Downloads\Курсовая\Курсовая\Разработка\DB_KW\DB_KW\bin\Debug\DB_KW.exe.config
+C:\Users\User\Downloads\Курсовая\Курсовая\Разработка\DB_KW\DB_KW\bin\Debug\DB_KW.exe
+C:\Users\User\Downloads\Курсовая\Курсовая\Разработка\DB_KW\DB_KW\bin\Debug\DB_KW.pdb
+C:\Users\User\Downloads\Курсовая\Курсовая\Разработка\DB_KW\DB_KW\obj\Debug\DB_KW.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Курсовая\Курсовая\Разработка\DB_KW\DB_KW\obj\Debug\DB_KW.AboutBox1.resources
+C:\Users\User\Downloads\Курсовая\Курсовая\Разработка\DB_KW\DB_KW\obj\Debug\DB_KW.Form1.resources
+C:\Users\User\Downloads\Курсовая\Курсовая\Разработка\DB_KW\DB_KW\obj\Debug\DB_KW.FormAddContactType.resources
+C:\Users\User\Downloads\Курсовая\Курсовая\Разработка\DB_KW\DB_KW\obj\Debug\DB_KW.FormAddStudInfo.resources
+C:\Users\User\Downloads\Курсовая\Курсовая\Разработка\DB_KW\DB_KW\obj\Debug\DB_KW.FormAddUser.resources
+C:\Users\User\Downloads\Курсовая\Курсовая\Разработка\DB_KW\DB_KW\obj\Debug\DB_KW.FormEnterOSEP.resources
+C:\Users\User\Downloads\Курсовая\Курсовая\Разработка\DB_KW\DB_KW\obj\Debug\DB_KW.FormResultsTable.resources
+C:\Users\User\Downloads\Курсовая\Курсовая\Разработка\DB_KW\DB_KW\obj\Debug\DB_KW.Properties.Resources.resources
+C:\Users\User\Downloads\Курсовая\Курсовая\Разработка\DB_KW\DB_KW\obj\Debug\DB_KW.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Курсовая\Курсовая\Разработка\DB_KW\DB_KW\obj\Debug\DB_KW.exe
+C:\Users\User\Downloads\Курсовая\Курсовая\Разработка\DB_KW\DB_KW\obj\Debug\DB_KW.pdb
+C:\Users\User\Downloads\Курсовая\Курсовая\Разработка\DB_KW\DB_KW\obj\Debug\DB_KW.FormAddPPS.resources
+C:\Users\User\Downloads\Курсовая\Курсовая\Разработка\DB_KW\DB_KW\obj\Debug\DB_KW.FormAddRuk.resources
+C:\Users\User\Downloads\Курсовая\Курсовая\Разработка\DB_KW\DB_KW\obj\Debug\DB_KW.FormAddVP.resources
+C:\Users\User\YandexDisk\7 семестр\кп БД\Разработка\DB_KW\DB_KW\bin\Debug\DB_KW.exe.config
+C:\Users\User\YandexDisk\7 семестр\кп БД\Разработка\DB_KW\DB_KW\bin\Debug\DB_KW.exe
+C:\Users\User\YandexDisk\7 семестр\кп БД\Разработка\DB_KW\DB_KW\bin\Debug\DB_KW.pdb
+C:\Users\User\YandexDisk\7 семестр\кп БД\Разработка\DB_KW\DB_KW\obj\Debug\DB_KW.csprojAssemblyReference.cache
+C:\Users\User\YandexDisk\7 семестр\кп БД\Разработка\DB_KW\DB_KW\obj\Debug\DB_KW.AboutBox1.resources
+C:\Users\User\YandexDisk\7 семестр\кп БД\Разработка\DB_KW\DB_KW\obj\Debug\DB_KW.Form1.resources
+C:\Users\User\YandexDisk\7 семестр\кп БД\Разработка\DB_KW\DB_KW\obj\Debug\DB_KW.FormAddPPS.resources
+C:\Users\User\YandexDisk\7 семестр\кп БД\Разработка\DB_KW\DB_KW\obj\Debug\DB_KW.Properties.Resources.resources
+C:\Users\User\YandexDisk\7 семестр\кп БД\Разработка\DB_KW\DB_KW\obj\Debug\DB_KW.csproj.GenerateResource.cache
+C:\Users\User\YandexDisk\7 семестр\кп БД\Разработка\DB_KW\DB_KW\obj\Debug\DB_KW.exe
+C:\Users\User\YandexDisk\7 семестр\кп БД\Разработка\DB_KW\DB_KW\obj\Debug\DB_KW.pdb
+C:\Users\User\YandexDisk\7 семестр\кп БД\Разработка\DB_KW\DB_KW\obj\Debug\DB_KW.FormAdd.resources
+C:\Users\User\YandexDisk\7 семестр\кп БД\Разработка\DB_KW\DB_KW\obj\Debug\DB_KW.FormAddDscp.resources
